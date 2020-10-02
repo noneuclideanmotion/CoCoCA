@@ -1,2 +1,2 @@
 # CoCoCA
-Continuous 
+Continuous Complex Cellular Automata
