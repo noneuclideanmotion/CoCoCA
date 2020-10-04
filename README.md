@@ -4,7 +4,7 @@ A Cellular Automata that can accept any 9 parameter function with perameters of 
   
 Requires a copy of SFML 2.5.1 to compile
 
-Use mouse to activate cells (Value 1) and space to run the simulation
+Use mouse to activate cells (Value 1) and space to run the simulation. Press F to move forward one frame.
   
 # To do:
   - GPU support
